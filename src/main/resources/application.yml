@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: BackendE_Commerce
+
+  profiles:
+    # 👇 Perfil por defecto (puede ser 'dev' en tu PC)
+    active: dev

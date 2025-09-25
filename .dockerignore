@@ -1,0 +1,16 @@
+# Gradle/IDE/build caches
+.gradle/
+build/
+out/
+logs/
+
+
+# IDE metadata
+*.iml
+.idea/
+.vscode/
+
+
+# OS/others
+.DS_Store
+*.log
